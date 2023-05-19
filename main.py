@@ -14,4 +14,3 @@ if __name__ == '__main__':
     #print_hi('PyCharm')
     name = input("What is your name?").upper()
     print_hi(name)
-
